@@ -1,0 +1,11 @@
+{
+	"name": "bl-bower",
+	"version": "0.1.0",
+	"main": "./app.js",
+	"homepage": "https://github.com/bl-front-end/bl-bower.git",
+	"keywords": [
+	  "百联",
+	  "前端bower"
+	],
+	"license": "MIT"
+}
