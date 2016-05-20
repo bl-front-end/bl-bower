@@ -10,8 +10,5 @@
     "chenpeng"
   ],
   "homepage": "https://github.com/bl-front-end/bl-bower.git",
-  "dependencies": {
-    "jquery": "1.7.2",
-    "jquery-lazy": "^1.6.7"
-  }
+  "dependencies": {}
 }
