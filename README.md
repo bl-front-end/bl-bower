@@ -19,6 +19,7 @@ git push origin --tags
 ![img](http://ccppchen.github.io/images/QQ20160520-0.jpg)
 
 打开github的项目，就找到我们刚才创建tag版本
+
 ![img](http://ccppchen.github.io/images/QQ20160520-1.jpg)
 
 ## 步骤2
