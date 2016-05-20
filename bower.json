@@ -1,7 +1,7 @@
 {
   "name": "bl-bower",
   "description": "bl-bower 百联js css包管理",
-  "main": "",
+  "main": "./app.js",
   "keywords": [
     "百联",
     "前端bower"
@@ -9,11 +9,6 @@
   "authors": [
     "chenpeng"
   ],
-  "license": "MIT",
   "homepage": "https://github.com/bl-front-end/bl-bower.git",
-  "private": true,
-  "dependencies": {
-    "jquery": "1.7.2",
-    "jquery-lazy": "^1.6.7"
-  }
+  "dependencies": {}
 }
