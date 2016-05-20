@@ -1,7 +1,7 @@
 {
   "name": "bl-bower",
   "description": "bl-bower 百联js css包管理",
-  "main": "",
+  "main": "./app.js",
   "keywords": [
     "百联",
     "前端bower"
