@@ -70,6 +70,7 @@ bower install --save bowerName
 ```sh
 bower login
 # enter username and password  
+bower unregister bowerName
 
 ```
 ![img](http://ccppchen.github.io/images/QQ20160520-5.jpg)
