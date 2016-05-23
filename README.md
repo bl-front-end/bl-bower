@@ -85,7 +85,7 @@ git push origin :0.1.0
 
 在`bower.json`中的dependencies中写依赖关系
 
-```json
+```
 {
   name: 'bootstrap',
   description: 'The most popular front-end framework for developing responsive, mobile first projects on the web.',
