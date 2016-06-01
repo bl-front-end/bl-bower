@@ -1,5 +1,5 @@
 {
-  "name": "bl-bower",
+  "name": "bl-bower bower1",
   "description": "bl-bower 百联js css包管理",
   "main": "./app.js",
   "ignore": [
